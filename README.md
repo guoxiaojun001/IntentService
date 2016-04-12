@@ -1,2 +1,3 @@
 # IntentService
 android中IntentService的用法和使用场景
+执行异步任务，通知主界面ui刷新
