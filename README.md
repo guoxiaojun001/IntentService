@@ -1,0 +1,2 @@
+# IntentService
+android中IntentService的用法和使用场景
